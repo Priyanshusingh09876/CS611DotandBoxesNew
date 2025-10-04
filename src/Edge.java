@@ -3,7 +3,7 @@
  * Represents an edge in the Dots and Boxes game.
  * An edge can be horizontal or vertical and can be claimed by a player.
  *
- * @author CS611 Student
+ * @author Priyanshu and Lyu
  * @version 1.0
  */
 public class Edge {

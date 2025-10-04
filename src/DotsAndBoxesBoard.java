@@ -4,7 +4,7 @@
  * Represents the game board for Dots and Boxes.
  * Manages edges, boxes, and game state.
  *
- * Author: CS611 Student
+ * Author: Priyanshu & Lyu
  * Version: 1.0
  */
 public class DotsAndBoxesBoard {

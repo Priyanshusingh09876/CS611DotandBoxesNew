@@ -5,7 +5,7 @@ import java.util.Random;
  * Represents the sliding puzzle board with tiles.
  * Handles board generation, scrambling, and move validation.
  *
- * @author CS611 Student
+ * @author Priyanshu and Lyu
  * @version 1.0
  */
 public class PuzzleBoard {

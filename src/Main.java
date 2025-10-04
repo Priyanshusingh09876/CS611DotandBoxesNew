@@ -3,7 +3,7 @@
  * Entry point for the Dots and Boxes game application.
  * Initializes the game controller and starts the game loop.
  *
- * @author CS611 Student
+ * @author Priyanshu and Lyu
  * @version 1.0
  */
 public class Main {

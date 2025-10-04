@@ -3,7 +3,7 @@
  * Handles the overall game flow and lets players choose between games.
  * Manages switching between games and keeps track of player stats.
  *
- * @author CS611 Student
+ * @author Priyanshu and Lyu
  * @version 1.0
  */
 public class GameController {

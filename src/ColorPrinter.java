@@ -1,10 +1,9 @@
 /**
  * ColorPrinter.java
  *
- * Handy utility for printing colored text to the console using ANSI codes.
  * Wraps common colors and simplifies colored printing with or without newlines.
  *
- * Author: Your Name Here
+ * Author: Priyanshu and Lyu
  * Version: 1.1
  */
 public class ColorPrinter {

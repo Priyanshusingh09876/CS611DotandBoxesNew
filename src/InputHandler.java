@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Centralized class for handling all user input with validation.
  * Provides methods for getting validated integers, strings, and coordinates.
  *
- * @author CS611 Student
+ * @author Priyanshu and Lyu
  * @version 1.0
  */
 public class InputHandler {

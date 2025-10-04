@@ -1,7 +1,7 @@
 /**
  * DotsAndBoxesGame.java
  * Manages the game flow for a single Dots and Boxes match.
- * @author CS611 Student
+ * @author Priyanshu and Lyu
  * @version 1.0
  */
 public class DotsAndBoxesGame {

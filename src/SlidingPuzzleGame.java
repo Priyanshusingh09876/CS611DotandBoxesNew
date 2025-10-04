@@ -3,7 +3,7 @@
  * Manages the game flow for a single Sliding Puzzle game.
  * Handles player moves and win detection.
  *
- * @author CS611 Student
+ * @author Priyanshu and Lyu
  * @version 1.0
  */
 public class SlidingPuzzleGame {

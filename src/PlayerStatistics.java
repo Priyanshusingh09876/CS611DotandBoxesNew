@@ -6,7 +6,7 @@ import java.util.Map;
  *
  * This class keeps track of players' stats for two different games: Dots and Boxes and Sliding Puzzle.
  *
- * Author: CS611 Student
+ * Author: Priyanshu and Lyu
  * Version: 1.0
  */
 public class PlayerStatistics {
